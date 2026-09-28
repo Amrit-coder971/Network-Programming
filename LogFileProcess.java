@@ -1,0 +1,7 @@
+/*. FileInputStream  ------>. 
+inputstream  ------>??
+bufferedinputstream  ------>?
+inputstreamreader  ------>?
+
+
+*/
