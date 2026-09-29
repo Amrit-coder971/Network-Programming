@@ -11,3 +11,9 @@ program to  parse URL
 
 program to Retrive data from urL
 hackchat :list all methods provided by  java.net.url  to Retrive data from urL by one by one 
+
+
+lab9 :read data form url using openconnention()
+
+
+openstream  
