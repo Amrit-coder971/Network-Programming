@@ -2,7 +2,7 @@
 168.152.10.1  get index html  404
 172.198.152.10 get index html  401
 
-
+video for some knowlage: rahul vistiwakarma
 fileinputstreamReader = new fileInputstreamreader (log.txt)
 
 // substring using https 
@@ -17,3 +17,13 @@ lab9 :read data form url using openconnention()
 
 
 openstream  
+
+ url .getContent ();
+url.openconnention()
+con.getcontentTypes()
+getContentLenght()
+getData()
+getExpiration() 
+getlastModified()
+
+getheaderField("fsdffg")
